@@ -1,5 +1,7 @@
-# MetaVersus Platform Smart Contracts
+# MetaVersus Platform Smart Contracts #
 
+
+<sup>Project is set to Private until beta release</sup>
 
 ## Development
 
